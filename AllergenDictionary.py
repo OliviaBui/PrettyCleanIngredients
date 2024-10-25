@@ -1,17 +1,17 @@
-###This file does 4 things: 
-			## 1) It stores the 5x FDA-class allergen lists (as Dictionaries).
-			## 2) It cross-checks the allergen lists with pasted ingredients.
-			## 3) It indicates whether an allergen was detected (yes or no).
-			## 4) If yes, then it identifies and highlights the specific allergens from each category that triggered a warning for you to review.
+#This file does 4 things: 
+## 1) It stores the 5x FDA-class allergen lists (as Dictionaries).
+## 2) It cross-checks the allergen lists with pasted ingredients.
+## 3) It indicates whether an allergen was detected (yes or no).
+## 4) If yes, then it identifies and highlights the specific allergens from each category that triggered a warning for you to review.
 
-###Building and storing allergens lists - Part 1
-#Establishing dictionaries.
+#Building and storing allergens lists - Part 1
+##Establishing dictionaries.
 allergyDictionary = dict()
 
-#Natural rubber allergens:
+##Natural rubber allergens:
 allergyDictionary["Natural rubbers"] = {"LATEX"}
 
-#Fragrances allergens:
+##Fragrances allergens:
 allergyDictionary["Fragrances"] = {"AMYL CINNAMAL","AMYLCINNAMYL ALCOHOL","ANISYL ALCOHOL","BENZYL ALCOHOL", "BENZYL BENZOATE", "BENZYL CINNAMATE", "BENZYL SALICYLATE" 
 CINNAMYL ALCOHOL
 CINNAMALDEHYDE
