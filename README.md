@@ -27,7 +27,6 @@ Python was selected because of its simplicity and accessibility, making it a gre
 - **FuzzyWuzzy**: For string matching to identify potential allergen matches, even with misspellings or regional variations.
 - **python-Levenshtein**: To enhance the speed of FuzzyWuzzy’s string comparison.
 - **Pillow (PIL)**: For image processing in Tkinter.
-- **Requests**: Used for handling HTTP requests, though further clarification is needed on its role in this project.
 
 ### Alternative Applications
 - **Free of by Isabella**: A food allergen detector, whereas PCI detects allergens in cosmetics.
