@@ -179,7 +179,19 @@ This project is complete and was submitted as part of a university assignment.
 - Ky Staal (UTS IT graduate and friend) for guidance.
 - Andre and Emily (Spring 2024 "Working with Data and Code" class) for peer feedback.
 - Evangeline Aguas and Andrew Stapleton for granting an extension to complete the work.
-- GEN AI was used to help create and edit this code. The following prompts were used: 🌼
+- GEN AI was used to help create and edit this code. The following prompts and replies were used:
+<img width="647" alt="Screenshot 2024-12-17 at 12 08 18 am" src="https://github.com/user-attachments/assets/a38ba998-34a5-4af6-aa35-590f425a7f70" />
+<img width="477" alt="Screenshot 2024-12-17 at 12 08 30 am" src="https://github.com/user-attachments/assets/6e1cc0d8-2266-499e-adab-39766344a1f6" />
+<img width="528" alt="Screenshot 2024-12-17 at 12 09 46 am" src="https://github.com/user-attachments/assets<img width="592" alt="Screenshot 2024-12-17 at 12 15 37 am" src="https://github.com/user-attachments/assets/4318eaa7-63ad-4b8d-a71c-0b53592918ed" />
+/8346f5ed-db97-4807-85ff-11e64a<img width="533" alt="Screenshot 2024-12-17 at 12 16 16 am" src="https://github.com/user-attachments/assets/7040745d-4ad0-4331-909a-842d8ead0701" />
+2fcb46" />
+<img width="567" alt="Screenshot 2024-12-17 at 12 18 36 am" src="https://github.com/user-attachments/assets/3873fdb7-d231-46fe-b642-7a6d65ecad96" />
+<img width="496" alt="Screenshot 2024-12-17 at 12 19 50 am" src="https://github.com/user-attachments/assets/8f4d45e0-7867-4341-bdf7-bc26f0814848" />
+<img width="592" alt="Screenshot 2024-12-17 at 12 20 41 am" src="https://github.com/user-attachments/assets/10f302d2-a2ae-47a4-95af-dfd5c1be7312" />
+<img width="479" alt="Screenshot 2024-12-17 at 12 21 44 am" src="https://github.com/user-attachments/assets/826cb0f5-17e2-4c8f-bb1c-5da4f6c2388c" />
+<img width="515" alt="Screenshot 2024-12-17 at 12 22 49 am" src="https://github.com/user-attachments/assets/cde35261-591f-4a04-bea5-7e2251e11c78" />
+<img width="455" alt="Screenshot 2024-12-17 at 12 23 02 am" src="https://github.com/user-attachments/assets/874e05e5-3b50-4883-b28c-73dfb1ab859b" />
+
 
 ## Contact
 For any questions or issues, feel free to contact me at [olivia.u.bui@student.uts.edu.au](mailto:olivia.u.bui@student.uts.edu.au) or open an issue in the repository.
